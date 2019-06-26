@@ -2,6 +2,8 @@
 This project is a greasemonkey script and a go program which supply a simple injection on snpedia.com so that you can quick check your
 genetic data when you visit a wiki article.
 
+![injection](https://github.com/maxco2/Inject-Snpedia/blob/master/img/injection.png)
+
 # Usage
 1. Create your database which should name genetic.db. Only support sqlite3.
 
